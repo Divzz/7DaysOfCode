@@ -1,3 +1,21 @@
 Day 1:
 
-Code in Python 
+Code in Python
+
+https://www.edureka.co/python
+
+Functional Testing : Testing Technique that is used to test the features/functionality of a system
+
+Selenium - Web Testing Tool that uses simple scripts to run tests directly within a browser 
+* Programming Languages - C#, Perl, Java, PHP, Python, Groovy, Ruby
+* Browsers - Chrome, IE, Firefox, Safari
+
+Selenium Python Bindings provides a simple API to write functional tests using Selenium WebDriver
+
+WebDriver API binding ->Selenium Server ->Runs tests on Browser
+
+Installations on Macbook:
+
+pip install selenium
+
+brew cask install chromedriver
